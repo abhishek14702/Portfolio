@@ -439,149 +439,50 @@ header .displayNone {
 }
 
 .image1 {
-    background: url(../assets/images/stackoverflow/1.webp) 50% no-repeat;
+    background: url(../assets/images/Flipkart/home.png) 50% no-repeat;
     background-size: cover;
 }
 
 .image2 {
-    background: url(../assets/images/stackoverflow/2.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image3 {
-    background: url(../assets/images/stackoverflow/3.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image4 {
-    background: url(../assets/images/stackoverflow/4.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image5 {
-    background: url(../assets/images/stackoverflow/5.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image6 {
-    background: url(../assets/images/stackoverflow/6.webp) 50% no-repeat;
+    background: url(../assets/images/Flipkart/paym.png) 50% no-repeat;
     background-size: cover;
 }
 
 .image11 {
-    background: url(../assets/images/resume-bot/1.webp) 50% no-repeat;
+    background: url(../assets/images/talkhub/Screenshot\ from\ 2023-09-30\ 04-27-05.png) 50% no-repeat;
     background-size: cover;
 }
 
 .image12 {
-    background: url(../assets/images/resume-bot/2.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image13 {
-    background: url(../assets/images/resume-bot/3.webp) 50% no-repeat;
+    background: url(../assets/images/talkhub/chat.png) 50% no-repeat;
     background-size: cover;
 }
 
 .image21 {
-    background: url(../assets/images/sd-times/1.webp) 50% no-repeat;
+    background: url(../assets/images/blog-site/home.png) 50% no-repeat;
     background-size: cover;
 }
 
 .image22 {
-    background: url(../assets/images/sd-times/2.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image23 {
-    background: url(../assets/images/sd-times/3.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image24 {
-    background: url(../assets/images/sd-times/4.webp) 50% no-repeat;
+    background: url(../assets/images/blog-site/Screenshot\ from\ 2023-09-30\ 05-29-51.png) 50% no-repeat;
     background-size: cover;
 }
 
 .image31 {
-    background: url(../assets/images/space-invaders/1.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image32 {
-    background: url(../assets/images/space-invaders/2.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image33 {
-    background: url(../assets/images/space-invaders/3.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image34 {
-    background: url(../assets/images/space-invaders/4.webp) 50% no-repeat;
+    background: url(../assets/images/around-the-world/Screenshot\ from\ 2023-09-30\ 04-30-02.png) 50% no-repeat;
     background-size: cover;
 }
 
 .image41 {
-    background: url(../assets/images/blog-site/1.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image42 {
-    background: url(../assets/images/blog-site/2.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image43 {
-    background: url(../assets/images/blog-site/3.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image44 {
-    background: url(../assets/images/blog-site/4.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image45 {
-    background: url(../assets/images/blog-site/5.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image46 {
-    background: url(../assets/images/blog-site/6.webp) 50% no-repeat;
+    background: url(../assets/images/maze/Screenshot\ from\ 2023-09-30\ 04-56-41.png) 50% no-repeat;
     background-size: cover;
 }
 
 .image51 {
-    background: url(../assets/images/moviesurfer/1.webp) 50% no-repeat;
+    background: url(../assets/images/Todo/home.png) 50% no-repeat;
     background-size: cover;
 }
 
-.image52 {
-    background: url(../assets/images/moviesurfer/2.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image53 {
-    background: url(../assets/images/moviesurfer/3.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image54 {
-    background: url(../assets/images/moviesurfer/4.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image55 {
-    background: url(../assets/images/moviesurfer/5.webp) 50% no-repeat;
-    background-size: cover;
-}
-
-.image56 {
-    background: url(../assets/images/moviesurfer/6.webp) 50% no-repeat;
-    background-size: cover;
-}
 
 .owl-prev {
     left: 0 !important;

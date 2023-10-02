@@ -187,7 +187,7 @@
 }
 
 .horizontal-scrolling:nth-child(2) .projects-item:nth-child(3) .project-content>.project-card {
-    background: url("../assets/images/moviesurfer/landing.webp") 50% no-repeat;
+    background: url("../assets/images/Todo/home.png") 50% no-repeat;
     background-size: cover
 }
 
