@@ -1125,6 +1125,17 @@
     <p id='scrollDown' class='scrollDown'>
         <span>SCROLLDOWN</span>
     </p>
+    <div>
+        <div className="relative flex items-center px-4 py-1 text-xs bg-white rounded-full shadow dark:bg-darkSecondary sm:text-sm">
+            <BsDot className="-ml-2 text-green-500 w-7 h-7 animate-ping" />
+            <div className="flex items-center gap-1">
+              {visitors?.totalVisitors ?? (
+                <div className="w-10 h-3 bg-gray-300 rounded-full dark:bg-darkPrimary animate-pulse"></div>
+              )}{" "}
+              visitors in last {visitors?.days} days
+            </div>
+    </div>
+    </div>
 </div>
 
 
